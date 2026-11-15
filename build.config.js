@@ -1,0 +1,1 @@
+export default { entry: 'index.html', outDir: 'dist' };
