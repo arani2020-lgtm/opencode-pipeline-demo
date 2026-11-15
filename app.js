@@ -1,2 +1,2 @@
-// TODO: init function is missing
-loadData();
+function init(){ console.log('ready'); }
+document.addEventListener('DOMContentLoaded', init);
